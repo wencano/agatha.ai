@@ -1,0 +1,18 @@
+version: "3.7"
+services:
+  postgres:
+    image: postgres:latest
+    restart: always
+    environment:
+      - PGPORT=5532
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+    ports:
+      - "5532:5532"
+    volumes:
+      - ./agathaai-data:/var/lib/postgresql/data
+
+volumes:
+  agathaai: 
+
