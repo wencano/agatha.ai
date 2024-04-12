@@ -20,14 +20,9 @@
 
 ## Setup
 
-Setup walkthrough:
+[Setup walkthrough:](https://wencano.com/media/screen-installation.mp4)
 
-<video controls>
-  <source src="https://wencano.com/media/screen-installation.mp4" type="video/mp4">
-</video>
-
-
-
+[![walkthrough](./public/screen-walkthrough.gif)](https://wencano.com/media/screen-installation.mp4)
 
 Clone the repository
 
