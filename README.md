@@ -80,6 +80,12 @@ Home Page
 Chat Details Page
 ![Detail Page](./public/screen-chat.jpeg)
 
+## Inspect database using Prisma Studio
+
+Run <code>npx prisma studio</code> to inspect and modify the database.
+
+![](./public/screen-prisma-studio.png)
+
 ## Unit testing with vitest
 
 Run <code>npm run test</code> to run sample unit test.
