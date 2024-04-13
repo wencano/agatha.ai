@@ -82,7 +82,7 @@ Chat Details Page
 
 ## Unit testing with vitest
 
-Run <code>npm run vitest</code> to run sample unit test.
+Run <code>npm run test</code> to run sample unit test.
 
 ![](./public/test-unit-vitest.png)
 
