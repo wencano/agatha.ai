@@ -5,14 +5,14 @@
 [See Demo &raquo;](https://wencano.com/agatha.ai)
 
 ## Features
-- [Remix JS](remix.run) full stack framework
+- [Remix JS](https://remix.run) full stack framework
 - [TypeScript](https://typescriptlang.org) for static types
 - [PostgreSQL](https://www.postgresql.org/) database 
 - [Docker](https://www.docker.com/) for postgres container
 - [httpOnly cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) for user session
 - [Prisma ORM](https://prisma.io) for database interface
 - [Tailwind](https://tailwindcss.com/) for styling
-- [shadcn/ui](https://shadcn.com) for design system
+- [shadcn/ui](https://ui.shadcn.com) for design system
 - [Cypress](https://cypress.io) for End-to-End testing
 - [Vitest](https://vitest.dev) and [Testing Library](https://testing-library.com) for Unit testing
 - [lorem-ipsum](https://www.npmjs.com/package/lorem-ipsum) for mock AI response
